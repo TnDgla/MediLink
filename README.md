@@ -314,3 +314,5 @@ This project is structured to ensure a step-by-step approach for feature develop
 ---
 
 **The End**
+
+**References:** https://github.com/amberkakkar01/Doctello
