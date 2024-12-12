@@ -90,6 +90,21 @@ By the end of the course, participants will develop a fully functional health ca
 
 
 ---
+### **Workflow Overview**
+This section illustrates the complete workflow for users and administrators in the **MediLink** application, covering key functionalities such as user registration, symptom checking, appointment scheduling, and emergency support.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **MediLink** app, showcasing the interaction between:
+- The **frontend** (HTML, CSS, JavaScript, jQuery) for the user interface.
+- The **backend** (Spring Boot, Spring Security) for handling authentication, appointment scheduling, and AI-driven logic.
+- The **AI system** (ChatGPT or OpenAI API) for analyzing user symptoms and providing healthcare recommendations.
+- The **database** (MySQL) for storing user profiles, appointments, and healthcare data.
+- ![image](https://github.com/user-attachments/assets/a8ce0a72-036d-4f69-9abb-ca006b731240)
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a step-by-step approach for feature development. Participants must fully implement Week-1 deliverables before progressing to Week-2 deliverables, and so on. Each Week feature builds on the previous one, ensuring a solid foundation for the final application.
 
@@ -314,5 +329,3 @@ This project is structured to ensure a step-by-step approach for feature develop
 ---
 
 **The End**
-
-**References:** https://github.com/amberkakkar01/Doctello
